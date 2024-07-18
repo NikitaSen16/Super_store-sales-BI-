@@ -2,8 +2,9 @@
 
 
 ## Problem Statement
+The dashboard is created to analyze and visualize the sales performance of a superstore, aiming to provide actionable insights and identify key trends in sales and profit across various dimensions such as geography, customer segments, and product categories. It features a comprehensive summary of total sales and profit over selected periods, visual representations of monthly or quarterly trends, heatmaps for geographical analysis, segmentation by customer demographics to highlight high-value segments, and breakdowns by product categories to identify top-performing and underperforming items. Additionally, it includes interactive filters and drill-down capabilities to enable stakeholders to explore the data in depth, facilitating informed, data-driven decision-making.
 
-The dashboard is created to analyze and visualize the sales performance of a superstore. It aims to provide actionable insights and identify key trends in sales and profit across various dimensions such as geography, customer segments, and product categories, facilitating data-driven decision-making for stakeholders.
+
 
 
 ### Steps followed 
